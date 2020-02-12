@@ -17,7 +17,7 @@ public class Diagonal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int matriz[][]=new int [5][5];
+        int matriz[][]=new int [3][3];
         int dato=1;
         for(int i=0; i<matriz.length;i++){
             for(int j=0;j<matriz[i].length;j++){
